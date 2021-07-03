@@ -1,0 +1,4 @@
+org\example\pojo\Dept.class
+org\example\service\DeptClientServiceFallBack$1.class
+org\example\service\DeptClientService.class
+org\example\service\DeptClientServiceFallBack.class

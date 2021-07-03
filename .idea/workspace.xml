@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bde74743-1143-4dc2-8392-eddc6bb7e098" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\jar\maven\mvnre" />
+        <option name="mavenHome" value="D:\jar\maven\apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\jar\maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1s8iXLNNvepZd4l9nro5iJP70BA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/springcloud-provider-dept-hystrix-8001/src/main/java" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\springcloud\springcloud-provider-dept-hystrix-8001\src\main\java" />
+      <recent name="D:\springcloud\springcloud-provider-dept-hystrix-8001\src\main\resources" />
+      <recent name="D:\springcloud\springcloud-consumer-dept-feign\src\main\resources" />
+      <recent name="D:\springcloud\springcloud-provider-dept-8003\src\main\resources" />
+      <recent name="D:\springcloud\springcloud-provider-dept-8002\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.example.config" />
+      <recent name="org.example.controller" />
+      <recent name="org.example" />
+      <recent name="org.example.service" />
+      <recent name="org.example.mapper" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.EurekaServer_7001">
+    <configuration name="DeptConsumer8060" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springcloud-consumer-dept-8060" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.DeptConsumer8060" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeptProvider8001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springcloud-provider-dept-8001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.DeptProvider8001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServer_7001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springcloud-eureka-7001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.EurekaServer_7001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServer_7003" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springcloud-eureka-7003" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.EurekaServer_7003" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Zuul9527" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springcloud-zuul-9527" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.examlple.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.examlple.Zuul9527" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.EurekaServer_7001" />
+        <item itemvalue="Spring Boot.Zuul9527" />
+        <item itemvalue="Spring Boot.DeptProvider8001" />
+        <item itemvalue="Spring Boot.DeptConsumer8060" />
+        <item itemvalue="Spring Boot.EurekaServer_7003" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bde74743-1143-4dc2-8392-eddc6bb7e098" name="Default Changelist" comment="" />
+      <created>1620260668394</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620260668394</updated>
+      <workItem from="1620260671072" duration="11600000" />
+      <workItem from="1620281101631" duration="9374000" />
+      <workItem from="1620346228149" duration="10422000" />
+      <workItem from="1620383493308" duration="3810000" />
+      <workItem from="1620480606790" duration="4313000" />
+      <workItem from="1620548703162" duration="296000" />
+      <workItem from="1620550945896" duration="7434000" />
+      <workItem from="1620613741528" duration="2552000" />
+      <workItem from="1620616473972" duration="782000" />
+      <workItem from="1620617492600" duration="458000" />
+      <workItem from="1620618174692" duration="1341000" />
+      <workItem from="1620623802405" duration="1112000" />
+      <workItem from="1620632537236" duration="1977000" />
+      <workItem from="1620636811993" duration="2593000" />
+      <workItem from="1620647248496" duration="1601000" />
+      <workItem from="1620700865732" duration="15569000" />
+      <workItem from="1620781643733" duration="997000" />
+      <workItem from="1620789464868" duration="3584000" />
+      <workItem from="1620798241595" duration="2783000" />
+      <workItem from="1620864837720" duration="1290000" />
+      <workItem from="1620967379977" duration="4617000" />
+      <workItem from="1620974703314" duration="48000" />
+      <workItem from="1621038259532" duration="3000" />
+      <workItem from="1621040833256" duration="151000" />
+      <workItem from="1622681430383" duration="1216000" />
+      <workItem from="1623320339957" duration="778000" />
+      <workItem from="1623323700003" duration="2485000" />
+      <workItem from="1623333302175" duration="3662000" />
+      <workItem from="1623370381202" duration="16000" />
+      <workItem from="1623371272525" duration="623000" />
+      <workItem from="1623379471511" duration="35000" />
+      <workItem from="1623381234583" duration="746000" />
+      <workItem from="1623416512262" duration="25000" />
+      <workItem from="1623464925056" duration="629000" />
+      <workItem from="1625206603089" duration="605000" />
+      <workItem from="1625283833590" duration="304000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/springcloud-provider-dept-8001/src/main/java/org/example/DeptProvider8001.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/springcloud-eureka-7001/src/main/java/org/example/EurekaServer_7001.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/springcloud-eureka-7002/src/main/java/org/example/EurekaServer_7002.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/springcloud-eureka-7002/src/main/java/org/example/EurekaServer_7002.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/springcloud-eureka-7003/src/main/java/org/example/EurekaServer_7003.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/springcloud-provider-dept-8001/src/main/java/org/example/DeptProvider8001.java</url>
+          <line>17</line>
+          <properties class="org.example.DeptProvider8001">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/springcloud-eureka-7001/src/main/java/org/example/EurekaServer_7001.java</url>
+          <line>9</line>
+          <properties class="org.example.EurekaServer_7001" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

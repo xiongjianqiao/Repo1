@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springcloud-provider-dept-8001" />
+        <module name="springcloudapi" />
+        <module name="springcloud-provider-dept-8002" />
+        <module name="springcloud-provider-dept-8003" />
+        <module name="springcloud-zuul-9527" />
+        <module name="springcloud-consumer-dept-8060" />
+        <module name="springcloud-eureka-7003" />
+        <module name="springcloud-eureka-7002" />
+        <module name="springcloud-eureka-7001" />
+        <module name="springcloud-provider-dept-hystrix-8004" />
+        <module name="springcloud-consumer-dept-feign2-8061" />
+        <module name="springcloud-consumer-dept-feign-8060" />
+        <module name="springcloud-consumer-hystrix-dashboard-8061" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="springcloud-consumer-dept-feign2-8061" target="8" />
+      <module name="springcloud-consumer-hystrix-dashboard-8005" target="8" />
+      <module name="springcloud-consumer-hystrix-dashboard-8006" target="8" />
+      <module name="springcloud-consumer-hystrix-dashboard-8007" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

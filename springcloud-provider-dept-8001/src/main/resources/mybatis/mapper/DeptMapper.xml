@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<!--configuration核心配置文件-->
+<mapper namespace="org.example.mapper.DeptMapper">
+<!--    boolean addDept(Dept dept);-->
+        <insert id="addDept" parameterType="Dept">
+            insert into dept (name,db_source) values (#{name},DATABASE());
+        </insert>
+<!--    Dept queryById(int id);-->
+        <select id="queryById" parameterType="Integer" resultType="Dept">
+            select * from dept where deptno=#{deptno};
+        </select>
+<!--    List<Dept> queryAll();-->
+        <select id="queryAll" resultType="Dept">
+            select * from dept
+        </select>
+</mapper>
